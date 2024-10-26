@@ -52,6 +52,6 @@ section span {
   transition: 1.5s;
 }
 section span:hover {
-  background: lavender;
+  background: red;
   transition: 0.5s;
 }
